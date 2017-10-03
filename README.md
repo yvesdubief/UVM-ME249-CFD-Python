@@ -4,7 +4,7 @@ Toward writing a CFD code in python
 The series of jupyter notebook walks the student through numerical algorithms for solving PDEs of increasing complexity, and relevant to phenomena found in flow transport.
 <h1>Topic 0- Pure Advection</h1>
 
-.. image:: https://github.com/yvesdubief/UVM-ME249-CFD-Python/master/Figures/Eqn1.png
+![image](https://raw.github.com/yvesdubief/UVM-ME249-CFD-Python/master/Figures/Eqn1.png)
 
 <h2>Objectives</h2>
 <ol>
